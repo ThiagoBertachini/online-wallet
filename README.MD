@@ -20,3 +20,7 @@ Notificação (envio de email, sms) por serviço externo;
 - **Spring Cloud Open Feign**: Cliente HTTP declarativo para comunicação com outros serviços.
 - **ControllerAdvice & Problem Details**: Padrão para tratamento de exceções e fornecimento de respostas detalhadas sobre problemas da API.
 - **Hibernate Validator**: Framework para validação de dados de entrada na aplicação.
+
+## Coleção de API
+    
+    Baixe o [arquivo de coleção Insomnia](./wallet-collection.json).
